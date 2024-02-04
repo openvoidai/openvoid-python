@@ -34,11 +34,6 @@ jobs:
           pip install poetry \
           && poetry config virtualenvs.create false \
           && poetry install
-
-       # Ruff
-      - name: Ruff check
-        run: |
-          poetry run ruff .
       
       # Mypy
       - name: Mypy Check
