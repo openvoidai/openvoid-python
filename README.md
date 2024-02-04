@@ -122,4 +122,4 @@ Contributions are welcome! Check the repository's contribution guidelines for mo
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE.txt). See the LICENSE file for details.
+This project is licensed under the [Apache License 2.0](LICENSE). See the LICENSE file for details.
