@@ -116,16 +116,10 @@ if __name__ == "__main__":
 
 This script demonstrates initiating a chat session with the OpenVoid AI and asking it to explain SQL Injection. Ensure you have set your `OPENVOID_API_KEY` in your environment variables to use this example.
 
-## Improvements
-
-- **API Key Management for Closed Beta:** Enhanced configuration process for closed beta participants' API keys.
-- **Expanded Examples:** More detailed examples demonstrate the OpenVoid AI API's capabilities.
-- **Improved Error Handling:** Better error reporting for easier debugging and issue resolution.
-
 ## Contributing
 
 Contributions are welcome! Check the repository's contribution guidelines for more information.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt). See the LICENSE file for details.
+This project is licensed under the [Apache License 2.0](LICENSE.txt). See the LICENSE file for details.
